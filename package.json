@@ -22,4 +22,10 @@
     "url": "https://github.com/learn-co-curriculum/react-rendering/issues"
   },
   "homepage": "https://github.com/learn-co-curriculum/react-rendering#readme",
+  "dependencies": {
+    "babel-register": "^6.26.0",
+    "jsdom": "^11.1.0",
+    "mocha": "^3.5.0",
+    "mocha-multi": "^0.11.0"
+  }
 }
